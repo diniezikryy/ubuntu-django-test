@@ -1,0 +1,1 @@
+Try to clone this repo into mac and start the app
